@@ -1,0 +1,21 @@
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q1\pratical1Q1\bin\Debug\pratical1Q1.exe.config
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\bin\Debug\pratical1Q1.exe
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\bin\Debug\pratical1Q1.pdb
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.Form1.resources
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.Properties.Resources.resources
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.csproj.GenerateResource.Cache
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.exe
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.pdb
+C:\Users\taruc\Documents\Visual Studio 2013\Projects\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.csprojResolveAssemblyReference.cache
+F:\GUI Programming\Pratical\1\pratical1Q1\pratical1Q1\bin\Debug\pratical1Q1.exe.config
+F:\GUI Programming\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.exe
+F:\GUI Programming\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.pdb
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\bin\Debug\pratical1Q1.exe.config
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.exe
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.pdb
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\bin\Debug\pratical1Q1.exe
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\bin\Debug\pratical1Q1.pdb
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.csprojResolveAssemblyReference.cache
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.Form1.resources
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.Properties.Resources.resources
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q1\pratical1Q1\obj\Debug\pratical1Q1.csproj.GenerateResource.Cache

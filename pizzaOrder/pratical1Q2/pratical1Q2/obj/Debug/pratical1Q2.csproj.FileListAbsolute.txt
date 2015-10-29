@@ -1,0 +1,33 @@
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.exe.config
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.exe
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.pdb
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.csprojResolveAssemblyReference.cache
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Form1.resources
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Properties.Resources.resources
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.csproj.GenerateResource.Cache
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.exe
+c:\users\taruc\documents\visual studio 2013\Projects\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.pdb
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.exe.config
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.exe
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.pdb
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.exe
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.pdb
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.csprojResolveAssemblyReference.cache
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Form1.resources
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Order.resources
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Properties.Resources.resources
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Register.resources
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.csproj.GenerateResource.Cache
+C:\Users\taruc\Desktop\Pratical\1\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Payment.resources
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.exe.config
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.exe
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.pdb
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.exe
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\bin\Debug\pratical1Q2.pdb
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.csprojResolveAssemblyReference.cache
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Form1.resources
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Order.resources
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Properties.Resources.resources
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Register.resources
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.csproj.GenerateResource.Cache
+C:\Users\taruc\Desktop\pratical1Q2\pratical1Q2\obj\Debug\pratical1Q2.Payment.resources
